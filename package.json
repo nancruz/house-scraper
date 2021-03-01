@@ -1,0 +1,17 @@
+{
+  "name": "house-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nuno Cruz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "js-logger": "^1.6.1",
+    "lowdb": "^1.0.0",
+    "puppeteer": "^7.1.0"
+  },
+  "scripts": {
+    "scraper": "NODE_ENV=production node src/index.js",
+    "scraper:dev": "NODE_ENV=development node src/index.js"
+  }
+}
