@@ -2,7 +2,6 @@ import { getHouses } from '../lib/db';
 import style from '../styles/Home.module.css'
 
 function HouseItem({ link, title, price, location, photo }) {
-  console.log(photo);
   return (
     <li className={style.houseItem}>
       <a href={link} target="_blank" rel="noopener noreferrer">
@@ -22,7 +21,6 @@ function HouseItem({ link, title, price, location, photo }) {
 }
 
 export default function Home({ houses = [] }) {
-  console.log(houses);
   return (
     <>
     <h1 className={style.title}>Houses List</h1>
