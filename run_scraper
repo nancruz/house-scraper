@@ -1,0 +1,13 @@
+#!bin/bash
+git status | grep -q scraper/db.json
+retVal=$?
+
+if [ $retVal -eq 0 ]; then
+    git add scraper/db.json
+    #git commit -m "DB Update"
+    #git push -f
+else
+    echo "DB didn't change"
+    exit
+fi
+
