@@ -56,6 +56,14 @@ const Logger = require('js-logger');
 async function parseURL(page, db, url) {
   await page.goto(url.url, {waitUntil: 'load', timeout: 0});
 
+  try {
+    await page.waitForSelector('.search-location-extended-warning');
+    Logger.info("Results not found.");
+    return [];
+  } catch {
+    Logger.info("Found results.");
+  }
+
   return await page.$$eval('.section-listing__row-content article', (articles, location) => {
     let newResults = [];
 
