@@ -31,7 +31,7 @@ export default function Home({ houses = [] }) {
   )
 }
 
-export async function getServerSideProps() {
+export async function getStaticProps() {
   return {
     props: {
       houses: getHouses()
