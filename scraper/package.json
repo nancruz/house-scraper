@@ -5,6 +5,8 @@
   "author": "Nuno Cruz",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "js-logger": "^1.6.1",
     "lowdb": "^1.0.0",
     "puppeteer": "^7.1.0"
