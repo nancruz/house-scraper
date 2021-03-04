@@ -1,8 +1,7 @@
 import lowdb from 'lowdb';
 import FileSync from 'lowdb/adapters/FileSync';
 
-const dbDirectory = process.env.DB_PATH;
-const db = lowdb(new FileSync(dbDirectory));
+const db = lowdb(new FileSync("../data/db.json"));
 
 db.defaults({ results: []}).write();
 
