@@ -1,4 +1,7 @@
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron:  '0 0 * * *'
 name: Scrape Data
@@ -7,15 +10,15 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master # check out the repo this action is in, so that you have all prior data
+    - uses: actions/checkout@master
     - name: Build
       working-directory: ./scraper
-      run: npm install # any dependencies you may need
+      run: npm install
     - name: Scrape
+      env:
+        DB_PATH: ../client/data/db.json
       working-directory: ./scraper
-      run: npm run scraper # actually run your npm script for scraping
-      # env:
-      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+      run: npm run scraper
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you

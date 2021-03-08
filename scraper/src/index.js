@@ -6,6 +6,8 @@ const FileSync = require('lowdb/adapters/FileSync');
 const Memory = require('lowdb/adapters/Memory');
 const Logger = require('js-logger');
 
+require('dotenv').config();
+
 (async () => {
   const config = JSON.parse(fs.readFileSync(path.join(__dirname, 'config.json')));
   const urls = config.urls;
@@ -16,7 +18,7 @@ const Logger = require('js-logger');
   const db = low(
     process.env.NODE_ENV === 'development'
     ? new Memory()
-    : new FileSync('db.json')
+    : new FileSync(process.env.DB_PATH)
   );
 
   Logger.useDefaults();
