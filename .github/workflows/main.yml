@@ -13,7 +13,7 @@ jobs:
       run: npm install # any dependencies you may need
     - name: Scrape
       working-directory: ./scraper
-      run: npm run action # actually run your npm script for scraping
+      run: npm run scraper # actually run your npm script for scraping
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
     - uses: mikeal/publish-to-github-action@master
