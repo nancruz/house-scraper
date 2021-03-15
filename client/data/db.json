@@ -1707,6 +1707,24 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk1dXFmeHhqbHYxNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.FtFCeJOFJJgPFiRJshVORjG_YwfVepiZHeRf4dHXCI8/image;s=655x491;q=80",
       "location": "Loures",
       "parseDate": 1615680992853
+    },
+    {
+      "title": "Apartanento freguesia Sta Clara",
+      "price": 155000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartanento-freguesia-sta-clara-ID15utG.html#a807e5f847",
+      "id": "imovirtual_15utG",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsxYTN1aWR5dTkwMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.32E2nCQV1v5GTqt3FIUXCDLucUwl5SfymqfbEtVaKME/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1615767364745
+    },
+    {
+      "title": "Apartamento Condomínio Ericeira Com Piscina",
+      "price": 260000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-condominio-ericeira-com-piscina-ID15uwh.html#5736fbfba3",
+      "id": "imovirtual_15uwh",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InAxa2VmNWFqcHNzaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Pa5_Tv3jCWjD8g1dkxxyodexoB5lk49bEieVsUqG1Ow/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1615767400877
     }
   ]
 }
