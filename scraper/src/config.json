@@ -19,6 +19,16 @@
       "source": "IMOVIRTUAL",
       "url": "https://www.imovirtual.com/comprar/apartamento/mafra/?search%5Bfilter_float_price%3Ato%5D=260000&search%5Bfilter_enum_rooms_num%5D%5B0%5D=2&search%5Bfilter_enum_rooms_num%5D%5B1%5D=3&search%5Bfilter_enum_condition%5D%5B0%5D=novo&search%5Bfilter_enum_condition%5D%5B1%5D=renovado&search%5Bfilter_enum_condition%5D%5B2%5D=em_construcao&search%5Border%5D=filter_float_price%3Aasc&search%5Bcreated_since%5D=1&search%5Bregion_id%5D=11&search%5Bsubregion_id%5D=156&nrAdsPerPage=72",
       "location": "Mafra"
+    },
+    {
+      "source": "IMOVIRTUAL",
+      "url": "https://www.imovirtual.com/comprar/apartamento/lourinha/?search%5Bfilter_float_price%3Ato%5D=260000&search%5Bfilter_enum_rooms_num%5D%5B0%5D=2&search%5Bfilter_enum_rooms_num%5D%5B1%5D=3&search%5Bfilter_enum_condition%5D%5B0%5D=novo&search%5Bfilter_enum_condition%5D%5B1%5D=renovado&search%5Bfilter_enum_condition%5D%5B2%5D=em_construcao&search%5Border%5D=filter_float_price%3Aasc&search%5Bcreated_since%5D=1&search%5Bregion_id%5D=11&search%5Bsubregion_id%5D=155&nrAdsPerPage=72",
+      "location": "Lourinhã"
+    },
+    {
+      "source": "IMOVIRTUAL",
+      "url": "https://www.imovirtual.com/comprar/apartamento/vila-franca-de-xira/?search%5Bfilter_float_price%3Ato%5D=260000&search%5Bfilter_enum_rooms_num%5D%5B0%5D=2&search%5Bfilter_enum_rooms_num%5D%5B1%5D=3&search%5Bfilter_enum_condition%5D%5B0%5D=novo&search%5Bfilter_enum_condition%5D%5B1%5D=renovado&search%5Bfilter_enum_condition%5D%5B2%5D=em_construcao&search%5Border%5D=filter_float_price%3Aasc&search%5Bcreated_since%5D=1&search%5Bregion_id%5D=11&search%5Bsubregion_id%5D=161&nrAdsPerPage=72",
+      "location": "Vila Franca de Xira"
     }
   ]
 }
