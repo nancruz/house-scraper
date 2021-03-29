@@ -3160,6 +3160,24 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1yMGR4M2MzbmJ4NDMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.D59vhk7Sqw47Kn3OB3DhKb2vJC0Qnz9i-cT9nColo1Y/image;s=655x491;q=80",
       "location": "Vila Franca de Xira",
       "parseDate": 1616891894273
+    },
+    {
+      "title": "Luxuoso Apartamento T3 no Centro de Mafra, totalmente remodelado",
+      "price": 195000,
+      "link": "https://www.imovirtual.com/pt/anuncio/luxuoso-apartamento-t3-no-centro-de-mafra-totalmente-remodelado-ID15Cvy.html#5736fbfba3",
+      "id": "imovirtual_15Cvy",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdjMmZocnRhYjcwYzEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.vMd9-LN2-nIVLBwhTVg1Axv5cAR2ym1gD8c5SgTeKTM/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1616978219127
+    },
+    {
+      "title": "Luxuoso Apartamento T3 no Centro de Mafra, totalmente remodelado",
+      "price": 195000,
+      "link": "https://www.imovirtual.com/pt/anuncio/luxuoso-apartamento-t3-no-centro-de-mafra-totalmente-remodelado-ID15Cvz.html#5736fbfba3",
+      "id": "imovirtual_15Cvz",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijcwd2hzcWU5czExajMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.SdVa5pSqF569OaPmglrPyD1ZlS49C96S0crwMXJTfgQ/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1616978219127
     }
   ]
 }
