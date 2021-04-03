@@ -3582,6 +3582,49 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpscGZjNDZ0NjZrbzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.uz4Rl7wceMihcAQBab8SaIw2uRu-6ZtkE2md29t-J3U/image;s=655x491;q=80",
       "location": "Vila Franca de Xira",
       "parseDate": 1617324402483
+    },
+    {
+      "title": "Apartamento T2 totalmente remodelado, no Lumiar",
+      "price": 205000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-totalmente-remodelado-no-lumiar-ID15Frv.html#a807e5f847",
+      "id": "imovirtual_15Frv",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImcydjhjdTRsaHBiYS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.pDAQxHxy6IdDht8KZ7m1wrRO5TRaSOEitcx-wU8QiXY/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1617410156026
+    },
+    {
+      "title": "Apartamento T2 para venda junto ao Hospital de São José e...",
+      "price": 239900,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-venda-junto-ao-hospital-de-sao-jose-e-ID15Fzj.html#a807e5f847",
+      "id": "imovirtual_15Fzj",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InkzOXAwcXAwaHdkbDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.veMD453tAXgflEnoeas6O5jGs3Zwmdu4tVnnE9vbGQM/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1617410156026
+    },
+    {
+      "title": "Excelente apartamento T2 Fonte Santa / Loures",
+      "price": 168000,
+      "link": "https://www.imovirtual.com/pt/anuncio/excelente-apartamento-t2-fonte-santa-loures-ID15Fwo.html#00b4c7ca17",
+      "id": "imovirtual_15Fwo",
+      "location": "Loures",
+      "parseDate": 1617410189749
+    },
+    {
+      "title": "Apartamento T2 Póvoa de Santa Iria com Varanda e Arrecadação",
+      "price": 139990,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-povoa-de-santa-iria-com-varanda-e-arrecadacao-ID15FAR.html#f7bb545bda",
+      "id": "imovirtual_15FAR",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndzcWJmMHEyemJoaS1BUFQiLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.hX-8SIn3EzxdtuQBteZaJXJhjDo6P0F5UCtamngcnA4/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1617410224828
+    },
+    {
+      "title": "Vendo apartamento T2 em remodelação, casa de banho nova",
+      "price": 105000,
+      "link": "https://www.imovirtual.com/pt/anuncio/vendo-apartamento-t2-em-remodelacao-casa-de-banho-nova-ID15FtZ.html#f7bb545bda",
+      "id": "imovirtual_15FtZ",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1617410224828
     }
   ]
 }
