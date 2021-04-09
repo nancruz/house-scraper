@@ -39,7 +39,13 @@ require('dotenv').config();
 
     if (Array.isArray(parsedResults)) {
       const filteredResults = parsedResults.filter(item => {
-        return !db.get('results').find({id: item.id}).value() && !results.find(({ id }) => item.id === id);
+        const dbResults = db.get('results').value();
+
+        const index = dbResults.findIndex(({ id, title }) => {
+          return item.id === id || (title.toLowerCase() === item.title)
+        });
+
+        return index < 0 && !results.find(({ id }) => item.id === id);
       });
 
       results.push(...filteredResults);
