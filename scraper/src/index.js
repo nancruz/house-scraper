@@ -41,8 +41,8 @@ require('dotenv').config();
       const filteredResults = parsedResults.filter(item => {
         const dbResults = db.get('results').value();
 
-        const index = dbResults.findIndex(({ id, title }) => {
-          return item.id === id || (title.toLowerCase() === item.title)
+        const index = dbResults.findIndex(({ id, title, price }) => {
+          return item.id === id || (title.toLowerCase() === item.title.toLowerCase() && price === item.price && id !== item.id)
         });
 
         return index < 0 && !results.find(({ id }) => item.id === id);
@@ -98,6 +98,4 @@ async function parseURL(page, db, url) {
     return newResults; 
   }, url.location);
 }
-
-function imagesHaveLoaded() { return Array.from(document.images).every((i) => i.complete); }
 
