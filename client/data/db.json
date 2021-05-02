@@ -5017,6 +5017,33 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpmZW54dHM1aW5ybDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qlGlETF6JAE1EfW76c762xlwfDCxI2pdIoauByLN_q0/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1619829065899
+    },
+    {
+      "title": "Apartamento T2 junto ao Metro da Encarnação",
+      "price": 237500,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-junto-ao-metro-da-encarnacao-ID15UL7.html#a807e5f847",
+      "id": "imovirtual_15UL7",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFzNzJxaWFieDZhdC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.cnWvIdHY_O_9toB7OU5vRPnH5lU9RiBus2pvvFgdMwo/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1619915528305
+    },
+    {
+      "title": "T2 remodelado em Santo António dos Cavaleiros",
+      "price": 139900,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-remodelado-em-santo-antonio-dos-cavaleiros-ID15UJQ.html#00b4c7ca17",
+      "id": "imovirtual_15UJQ",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9uNnFrZzM0ajFzZDMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yToqRbVjyrn0iHxcNbVmpHjeSUED3mTX14D_iUPWB6g/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1619915561653
+    },
+    {
+      "title": "Apartamento t2 com Terraço centro Lourinhã",
+      "price": 120000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-terraco-centro-lourinha-ID15UPh.html#6f1844b510",
+      "id": "imovirtual_15UPh",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImNzcGVtczh2dG1yYS1BUFQiLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.zk8HPcqvvrO-uQiqM48Y8vGb-Ozyr677A5gcwjPVp7I/image;s=655x491;q=80",
+      "location": "Lourinhã",
+      "parseDate": 1619915594471
     }
   ]
 }
