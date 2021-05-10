@@ -5485,6 +5485,24 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVsanZxMjBnMzd4ajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Tyk7h-AZ1chYQmFrjI-RYu14sbPh617U4wZiRZFAY5Q/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1620519781767
+    },
+    {
+      "title": "Apartamento T2 Duplex Totalmente Renovado",
+      "price": 165000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-duplex-totalmente-renovado-ID15YBl.html#00b4c7ca17",
+      "id": "imovirtual_15YBl",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2Mm11eTRhcWRvMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MwnzwCfP5bAxcAi_TRGtHlSIkOLiAwIw4ylpZW-kbPw/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1620605978140
+    },
+    {
+      "title": "T2 com 125m2 em Mafra, Quinta de Santa Bárbara",
+      "price": 260000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-com-125m2-em-mafra-quinta-de-santa-barbara-ID15Yzg.html#5736fbfba3",
+      "id": "imovirtual_15Yzg",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNxZTUwOTVlbHltbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.N-5_NWs-AtCEB3EX6fVfGbchHYtTpP9f_4YW-QUwvG0/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1620606010151
     }
   ]
 }
