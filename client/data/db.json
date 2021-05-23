@@ -6518,6 +6518,42 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF4N3I1d3BucGVuNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.nOO5R5szWgKlqcKz1A-x1S9MHx1f17ruqc34na2N5So/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1621643529984
+    },
+    {
+      "title": "Apartamento T2 Vale Figueira, São João da Talha",
+      "price": 147500,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-vale-figueira-sao-joao-da-talha-ID167gF.html#00b4c7ca17",
+      "id": "imovirtual_167gF",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImY3MHJoMDNhY2oxai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.utirG10u13jk2ieJ623YMAAxxrBEDTnrDE4hj1KSBS8/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1621730039322
+    },
+    {
+      "title": "Fantástico T2 com Terraço a Estrear na Ericeira",
+      "price": 255000,
+      "link": "https://www.imovirtual.com/pt/anuncio/fantastico-t2-com-terraco-a-estrear-na-ericeira-ID167bS.html#5736fbfba3",
+      "id": "imovirtual_167bS",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpveXNtNHdoYTI5cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NmHOUdTaIgU9uB0VDXRvqKsmLMQ5iZQ8MHA9w78LnfY/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1621730071045
+    },
+    {
+      "title": "T2  - Áreas  Magníficas  -  Novo   -  Terraço",
+      "price": 260000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-areas-magnificas-novo-terraco-ID167gm.html#0a560104e0",
+      "id": "imovirtual_167gm",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpmdjI2NXltM2Q0dDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MuNbRc5J3SFVCeXMSXfa6C8i_x2pcpwX2Pk8cJDkpRs/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1621730106921
+    },
+    {
+      "title": "Apartamento T2 com terraço e parqueamento - Montijo",
+      "price": 260000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-terraco-e-parqueamento-montijo-ID167nk.html#0a560104e0",
+      "id": "imovirtual_167nk",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd1aW9xZWtyMjlnbjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.g4rQCCC-aGhE9RBQku_D7KgOv5lCfWMNG2N0p2yVBv8/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1621730106921
     }
   ]
 }
