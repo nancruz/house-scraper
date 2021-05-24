@@ -6554,6 +6554,40 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd1aW9xZWtyMjlnbjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.g4rQCCC-aGhE9RBQku_D7KgOv5lCfWMNG2N0p2yVBv8/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1621730106921
+    },
+    {
+      "title": "Apartamento T2 Recuperado-Torres Vedras",
+      "price": 140000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-recuperado-torres-vedras-ID167xX.html#822af08b8a",
+      "id": "imovirtual_167xX",
+      "location": "Torres Vedras",
+      "parseDate": 1621816302409
+    },
+    {
+      "title": "Apartamento T2 para Vender ou Alugar",
+      "price": 155000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-vender-ou-alugar-ID167v7.html#00b4c7ca17",
+      "id": "imovirtual_167v7",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ5M2xneWRtZHU1bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.pU7-1PreTvae7-8dmPxgZLBeeFxb04kRd1O_3_v26ZE/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1621816333907
+    },
+    {
+      "title": "Apartamento T3 c/garagem e c/novo na Venda do Pinheiro",
+      "price": 197000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-c-garagem-e-c-novo-na-venda-do-pinheiro-ID167vY.html#5736fbfba3",
+      "id": "imovirtual_167vY",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJ5ODF0eWgybTI3azMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.KIH0lvJaOlEik4peO9Pz8AwPWx5nTBIyHQiZUw8nMUo/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1621816365512
+    },
+    {
+      "title": "Apartamento T2 + 1 Duplex na Lourinhã",
+      "price": 149000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-duplex-na-lourinha-ID167rZ.html#6f1844b510",
+      "id": "imovirtual_167rZ",
+      "location": "Lourinhã",
+      "parseDate": 1621816396927
     }
   ]
 }
