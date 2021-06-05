@@ -7497,6 +7497,23 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh6ODZsdGxnOXgwaDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.yu-NlNHoKxstFz1nBIiQPKtrDVpYOYRZhCE_zBeQavU/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1622769175715
+    },
+    {
+      "title": "Apartamento T3 como novo, totalmente remodelado",
+      "price": 245000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-como-novo-totalmente-remodelado-ID16dCP.html#822af08b8a",
+      "id": "imovirtual_16dCP",
+      "location": "Torres Vedras",
+      "parseDate": 1622854272911
+    },
+    {
+      "title": "Apartamento T2 com terraço e varanda.",
+      "price": 148000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-terraco-e-varanda-ID16dju.html#0a560104e0",
+      "id": "imovirtual_16dju",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjY3ZTUyaGJsZ3JkcjEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.H5-oGHXqr7I7Gfgynacqw7PVJjSx4DczsdA_uXVmkys/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1622854311489
     }
   ]
 }
