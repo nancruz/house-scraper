@@ -8812,6 +8812,31 @@
       "id": "imovirtual_16qpz",
       "location": "Montijo",
       "parseDate": 1625185514861
+    },
+    {
+      "title": "Apartamento recente e como novo T3 na Bela Praia de Santa...",
+      "price": 250000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-recente-e-como-novo-t3-na-bela-praia-de-santa-ID16qH7.html#822af08b8a",
+      "id": "imovirtual_16qH7",
+      "location": "Torres Vedras",
+      "parseDate": 1625271821398
+    },
+    {
+      "title": "Apartamento T3 Remodelado em Vialonga",
+      "price": 115000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-remodelado-em-vialonga-ID16qE6.html#f7bb545bda",
+      "id": "imovirtual_16qE6",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijh1czluY3Zva29mNjEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ANigxDyeIduK2M5C1bXJ72-xIRWPKXMFiOkMzX1tHns/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1625271859418
+    },
+    {
+      "title": "Apartamento T3 Venda em Montijo e Afonsoeiro,Montijo",
+      "price": 208000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-venda-em-montijo-e-afonsoeiro-montijo-ID16rws.html#0a560104e0",
+      "id": "imovirtual_16rws",
+      "location": "Montijo",
+      "parseDate": 1625271891116
     }
   ]
 }
