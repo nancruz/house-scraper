@@ -10091,6 +10091,23 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE2MjI5MXp2ZW5ndjMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Ic17QUMaIFJ8HGZhUvGbh4eNFt9rQMPHjTBkMzuLcCQ/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1627086360087
+    },
+    {
+      "title": "T3 para venda em S. João da Talha",
+      "price": 160000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t3-para-venda-em-s-joao-da-talha-ID16Bnr.html#00b4c7ca17",
+      "id": "imovirtual_16Bnr",
+      "location": "Loures",
+      "parseDate": 1627172708466
+    },
+    {
+      "title": "Apartamento T2 Ericeira a 700 metros da Praia",
+      "price": 245000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-ericeira-a-700-metros-da-praia-ID16BpE.html#5736fbfba3",
+      "id": "imovirtual_16BpE",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZjY3RkMDlxNnFwMjEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.94XV3YkICEQhB96pC0ezGNAnSuCuEnGxamNLUwVpEG8/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1627172740328
     }
   ]
 }
