@@ -10197,6 +10197,32 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imx2M3Rqam85OG8xMDItQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.MmpD8AOwadVRVzb-YuV_Lw_k2hjLX5IZEwYrncHnel8/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1627345589068
+    },
+    {
+      "title": "Apartamento T2 (remodelado) a 2 minutos do Metro",
+      "price": 230000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-remodelado-a-2-minutos-do-metro-ID16Cbe.html#a807e5f847",
+      "id": "imovirtual_16Cbe",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ4MDlsZnRiZGJlMjItQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.EvcaClhVkvmyG6UJh2Nsk4F8Auugn6YInrF15NWBNes/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1627432001226
+    },
+    {
+      "title": "T3 c/ terraço e dois lugares de Parqueamento em Loures",
+      "price": 230000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t3-c-terraco-e-dois-lugares-de-parqueamento-em-loures-ID16CxU.html#00b4c7ca17",
+      "id": "imovirtual_16CxU",
+      "location": "Loures",
+      "parseDate": 1627432035314
+    },
+    {
+      "title": "T2 com parqueamento e terraço na Ericeira",
+      "price": 237500,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-com-parqueamento-e-terraco-na-ericeira-ID16Crn.html#5736fbfba3",
+      "id": "imovirtual_16Crn",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InE3ZHplcXRibDNtcTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.M6ESPhcSaYayqRjYAIrPhkPH7U5YEE6Z5O65PC1J9Kw/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1627432067389
     }
   ]
 }
