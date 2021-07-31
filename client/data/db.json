@@ -10339,6 +10339,33 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRhbXB4dnQ4OW9wajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.RidnNfafhcaTcVSLfQoJx9otFJRiv65CYZYcsS8ec90/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1627604759876
+    },
+    {
+      "title": "Apartamento T2 totalmente recuperado em Benfica",
+      "price": 175000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-totalmente-recuperado-em-benfica-ID16E1h.html#a807e5f847",
+      "id": "imovirtual_16E1h",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imh6ODN0cHR2bTNqaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wsXaR5ClBx9aE1WStVs6G_aLWC_6GzKiOVUUGC7MLOY/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1627691099407
+    },
+    {
+      "title": "Apartamento T2 (3 assoalhadas), no centro de Benfica",
+      "price": 220000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-3-assoalhadas-no-centro-de-benfica-ID16EdY.html#a807e5f847",
+      "id": "imovirtual_16EdY",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imp5bmFnZ2toaDFrNjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.y9iuSW_u8MsZaWXzCTmTojHkGPxjWM42EBAL7ctzc24/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1627691099408
+    },
+    {
+      "title": "REMODELADO - Montijo",
+      "price": 240000,
+      "link": "https://www.imovirtual.com/pt/anuncio/remodelado-montijo-ID16DW0.html#0a560104e0",
+      "id": "imovirtual_16DW0",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRjNDY2NjZwbXpudjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.LfjeUqds2lm2yUY-FnsSvK2d1OWJnuKg5r0QpxyCYAI/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1627691171734
     }
   ]
 }
