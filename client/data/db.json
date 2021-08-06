@@ -10492,6 +10492,42 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImRwM2p4ZjRyeTBrdDEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.jHOCBH8KOTyGUfe_pgMIXrHvouLx1mgjuLDZeDABiZM/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1628123302279
+    },
+    {
+      "title": "Apartamento T3 no Bairro do Paraíso, em Vila Franca de Xira",
+      "price": 149000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-no-bairro-do-paraiso-em-vila-franca-de-xira-ID16Gwn.html#f7bb545bda",
+      "id": "imovirtual_16Gwn",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJvdXR6c3V2ZWh0bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.LglSTRSH3lkk2ANblJ-yA6o-z-8Y3u5hvlCs8yJvR0Q/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1628209557951
+    },
+    {
+      "title": "Apartamento t2 vialonga",
+      "price": 157000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-vialonga-ID16GMJ.html#f7bb545bda",
+      "id": "imovirtual_16GMJ",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUwMDl6ZWY4dGZjcy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.nWq-mQeHno91aSXb7UFgKHcCf8PtwgqtWeTwZ0MGZXE/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1628209557951
+    },
+    {
+      "title": "T3 remodelado, 1°andar, Forte da casa",
+      "price": 165000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t3-remodelado-1andar-forte-da-casa-ID16GME.html#f7bb545bda",
+      "id": "imovirtual_16GME",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InA4MXNmNGcycnBuZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.pxrMDC02THQz2Azx3945LUPpPIQPd7w2A_r_j4Gr7tY/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1628209557951
+    },
+    {
+      "title": "Apartamento T2 Novo Alto das Vinhas Grandes Portas da cidade",
+      "price": 250000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-novo-alto-das-vinhas-grandes-portas-da-cidade-ID16Gp5.html#0a560104e0",
+      "id": "imovirtual_16Gp5",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZrems1eXltNW01djItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.zGO_AsJRshhDsbOeUES7jp44sJS6Wi_O76pa_h2G3Jw/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1628209589359
     }
   ]
 }
