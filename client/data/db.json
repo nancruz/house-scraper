@@ -10807,6 +10807,24 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijc5cGJlZnZsbGE2ZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.nMWUTleQz6ESHhgknJIy6YM2t1JxN4I4vkJUSczcopc/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1628900744619
+    },
+    {
+      "title": "Apartamento T3 no centro da cidade.",
+      "price": 189900,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-no-centro-da-cidade-ID16K1i.html#822af08b8a",
+      "id": "imovirtual_16K1i",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ind4enc3Z2IyZ2ZjMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Q9SaM5KkZ2xeB9Oe8l2iprh6JdPfdObsaGgguHuv6PQ/image;s=655x491;q=80",
+      "location": "Torres Vedras",
+      "parseDate": 1628987175214
+    },
+    {
+      "title": "Apartamento T2 Remodelado com Terraço no Centro de Alverca do Ribatejo",
+      "price": 139000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-remodelado-com-terraco-no-centro-de-alverca-do-ribatejo-ID16K9J.html#f7bb545bda",
+      "id": "imovirtual_16K9J",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhtdDlla3dka3BmeDEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lem2jxvnp9Z-R8FqpbruBlkg1LZj3BV0rMmRvI_7Hos/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1628987211642
     }
   ]
 }
