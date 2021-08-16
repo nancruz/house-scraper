@@ -10825,6 +10825,24 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImhtdDlla3dka3BmeDEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lem2jxvnp9Z-R8FqpbruBlkg1LZj3BV0rMmRvI_7Hos/image;s=655x491;q=80",
       "location": "Vila Franca de Xira",
       "parseDate": 1628987211642
+    },
+    {
+      "title": "Apartamento T2 Centro de Moscavide junto ao Metro de Moscavide",
+      "price": 225000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-centro-de-moscavide-junto-ao-metro-de-moscavide-ID16Kdw.html#00b4c7ca17",
+      "id": "imovirtual_16Kdw",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJjNG4yaHdvcGZwZzEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.VJmiF2-BoQqdawkDnGggxPW0qvdWz3vKs6Dsw4Q_WMI/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1629073600392
+    },
+    {
+      "title": "Apartamento T3 Vista de Rio Forte da Casa, Póvoa de Santa Iria",
+      "price": 165000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-vista-de-rio-forte-da-casa-povoa-de-santa-iria-ID16Kbv.html#f7bb545bda",
+      "id": "imovirtual_16Kbv",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpueHhpNjVwd3Z4NzItQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.u03cndbRw4kVq3xc3cDVa4McgWE6V_sG21w2lil8wjk/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1629073636093
     }
   ]
 }
