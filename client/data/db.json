@@ -10843,6 +10843,59 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImpueHhpNjVwd3Z4NzItQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.u03cndbRw4kVq3xc3cDVa4McgWE6V_sG21w2lil8wjk/image;s=655x491;q=80",
       "location": "Vila Franca de Xira",
       "parseDate": 1629073636093
+    },
+    {
+      "title": "Apartamento 3 quartos Alpiarça",
+      "price": 72000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-3-quartos-alpiarca-ID16Ks4.html#a807e5f847",
+      "id": "imovirtual_16Ks4",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImE4Ymk4ZmtqMWt2ajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.V9uFmfHtGuCZ-lE4bowklIWnmxLhw0Rd4mwlQVcaKnI/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1629159968674
+    },
+    {
+      "title": "Via Emília T2 • Logradouro 15 M2",
+      "price": 164000,
+      "link": "https://www.imovirtual.com/pt/anuncio/via-emilia-t2-logradouro-15-m2-ID16KrU.html#a807e5f847",
+      "id": "imovirtual_16KrU",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im51YWxqOGZrdHp3NjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rBb3TXrdNWkDJ4tFUAe5qmT_WgAvwYAWOMqrR8urTLg/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1629159968674
+    },
+    {
+      "title": "Beato T2 • renovado com elevador",
+      "price": 228000,
+      "link": "https://www.imovirtual.com/pt/anuncio/beato-t2-renovado-com-elevador-ID16KrM.html#a807e5f847",
+      "id": "imovirtual_16KrM",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU3bW9zbWllNXliZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0rsp3tZWTXApkfFNC1lv2ZzzmoasQMojsQcrl0xQBHs/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1629159968674
+    },
+    {
+      "title": "T3+1 com garagem na Malveira, Concelho de Mafra",
+      "price": 195000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t3-1-com-garagem-na-malveira-concelho-de-mafra-ID16KIi.html#5736fbfba3",
+      "id": "imovirtual_16KIi",
+      "location": "Mafra",
+      "parseDate": 1629160004915
+    },
+    {
+      "title": "T2 de charme Centro de Alverca próximo dos bombeiros volu...",
+      "price": 137500,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-de-charme-centro-de-alverca-proximo-dos-bombeiros-volu-ID16KCR.html#f7bb545bda",
+      "id": "imovirtual_16KCR",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjIwYW1pcjc3OW0wdjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.elwsTLLsdzx1tXKO4LXSjMpd17kl8q3c97o7AAJ3JPQ/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1629160068965
+    },
+    {
+      "title": "T2 Remodelado c vista rio",
+      "price": 145000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-remodelado-c-vista-rio-ID16KAb.html#f7bb545bda",
+      "id": "imovirtual_16KAb",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsycGM1cWh6cWFsdjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.dMiBMraQYdUH4bMIRkyVQGWUcSbaTjjZxNTCcLsi0Yo/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1629160068965
     }
   ]
 }
