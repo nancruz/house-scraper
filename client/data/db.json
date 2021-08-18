@@ -10896,6 +10896,51 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImsycGM1cWh6cWFsdjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.dMiBMraQYdUH4bMIRkyVQGWUcSbaTjjZxNTCcLsi0Yo/image;s=655x491;q=80",
       "location": "Vila Franca de Xira",
       "parseDate": 1629160068965
+    },
+    {
+      "title": "Apartamento T3 renovado em Benfica",
+      "price": 350,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-renovado-em-benfica-ID16KZh.html#a807e5f847",
+      "id": "imovirtual_16KZh",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Indka2w5eHJzY3Q2ZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ivMClBdX9BnQfy7muZS2ct2tlTQI_qIYpWPUdj_UKaw/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1629246334645
+    },
+    {
+      "title": "T2 num 1 andar em São João da Talha",
+      "price": 139900,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-num-1-andar-em-sao-joao-da-talha-ID16KOo.html#00b4c7ca17",
+      "id": "imovirtual_16KOo",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJubmw4eTR4Y3g5MTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.f0dMVRPHNz1ujPj5GzKI6XjzE4VJBAg6IGN5a0cf8Jo/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1629246368246
+    },
+    {
+      "title": "T2 semi remodelado São João da talha",
+      "price": 139900,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-semi-remodelado-sao-joao-da-talha-ID16KKs.html#00b4c7ca17",
+      "id": "imovirtual_16KKs",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImgxeWV4dnZxb29qNDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.dyl4W_qLd0hgyDVizelcxwzl_x_Jh3TX1-SIbD69oMw/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1629246368246
+    },
+    {
+      "title": "Forte da Casa, T2 renovado, Bem localizado, Zona calma",
+      "price": 125000,
+      "link": "https://www.imovirtual.com/pt/anuncio/forte-da-casa-t2-renovado-bem-localizado-zona-calma-ID16LfQ.html#f7bb545bda",
+      "id": "imovirtual_16LfQ",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhuMzIweHBuaXAwZDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.WrGWKH424agjfyBdIBFFiWo9ADRRFPeIKcUkqP_ONvw/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1629246403688
+    },
+    {
+      "title": "T2 Remodelado em VIALONGA",
+      "price": 128500,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-remodelado-em-vialonga-ID16KJr.html#f7bb545bda",
+      "id": "imovirtual_16KJr",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im13NDlmMzR1b3kxdTMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.LaavZASZHPhIQo1DvX8kqfui2EkxIfQ6nja-wIZAUOc/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1629246403689
     }
   ]
 }
