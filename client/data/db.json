@@ -11174,6 +11174,42 @@
       "id": "imovirtual_16N6I",
       "location": "Montijo",
       "parseDate": 1629764820131
+    },
+    {
+      "title": "Apartamento T2| Remodelado| Coz. Equipada| Bairro Madre Deus",
+      "price": 228000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-remodelado-coz-equipada-bairro-madre-deus-ID16NqU.html#a807e5f847",
+      "id": "imovirtual_16NqU",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngzZXR5aDZxYzQ4ajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.64CJzeYtZyBr1_UXgmH7MyPiYzEPO_jMGGWZuAxdqWE/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1629851184473
+    },
+    {
+      "title": "Vendo Apartamento totalmente remodelado.",
+      "price": 199000,
+      "link": "https://www.imovirtual.com/pt/anuncio/vendo-apartamento-totalmente-remodelado-ID16NF1.html#00b4c7ca17",
+      "id": "imovirtual_16NF1",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImxvNDZ1b3M0azBydjItQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.iREhYs-yUfuQcMfaKOQ8ex43XwJVAFU2Wiwm4C27wOs/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1629851218357
+    },
+    {
+      "title": "Apartamento T2 completamente remodelado no centro de Vialonga",
+      "price": 138000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-completamente-remodelado-no-centro-de-vialonga-ID16NpA.html#f7bb545bda",
+      "id": "imovirtual_16NpA",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjAxdWlwMm9naHJqMDEtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ea7JSTWH1fWjBXVdNZsWolkMPpPDm_ilMvGv3SjP4qA/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1629851254128
+    },
+    {
+      "title": "Apartamento T2 Remodelado | Bairro do Paraíso | Vila Franca de Xira",
+      "price": 150000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-remodelado-bairro-do-paraiso-vila-franca-de-xira-ID16NLk.html#f7bb545bda",
+      "id": "imovirtual_16NLk",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV4eWNrNm5yenB6azMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.TYkyPH0lznoCnin-dLgEZ8MVD2_0iaSpw5i9HvfHr2I/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1629851254129
     }
   ]
 }
