@@ -11308,6 +11308,77 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImZnMHI3MnUwMWdlYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0x45NFVhH4ZuOWfR1NuAX2mb9ttDogaFPOPZFr-Gw4M/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1630024147617
+    },
+    {
+      "title": "Apartamento no centro, T2 com varanda, Remodelado como Novo",
+      "price": 189000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-no-centro-t2-com-varanda-remodelado-como-novo-ID16Pcc.html#822af08b8a",
+      "id": "imovirtual_16Pcc",
+      "location": "Torres Vedras",
+      "parseDate": 1630110276376
+    },
+    {
+      "title": "Apartamento T2 em Santa Iria de Azoia",
+      "price": 139000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-santa-iria-de-azoia-ID16Pia.html#00b4c7ca17",
+      "id": "imovirtual_16Pia",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1zbmhnNGwwYXQwbC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.1rebt531oyO_l_cMOFuvRYeWWpZl1PGvXs8vrYftHx4/image;s=655x491;q=80",
+      "location": "Loures",
+      "parseDate": 1630110307623
+    },
+    {
+      "title": "Apartamento T2 em Alhandra remodelado",
+      "price": 125500,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-alhandra-remodelado-ID16PlF.html#f7bb545bda",
+      "id": "imovirtual_16PlF",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZnMWVjeG1jMnVvNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.isD5dJa3bl0bAnNVoQq__AhK8llhoXkip9rx49Y7vC0/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1630110343237
+    },
+    {
+      "title": "Apartamento completamente remodelado em Alverca do Ribatejo",
+      "price": 137500,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-completamente-remodelado-em-alverca-do-ribatejo-ID16Pf5.html#f7bb545bda",
+      "id": "imovirtual_16Pf5",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4ybDk0ZTM2cnl2djMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.7ZGPerwT1EzjyjSAOLXxh93ZZ8ncstBVwo-hE0b_uWY/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1630110343238
+    },
+    {
+      "title": "Alverca T2 Novo com Terraço, Totalmente Equipada",
+      "price": 226000,
+      "link": "https://www.imovirtual.com/pt/anuncio/alverca-t2-novo-com-terraco-totalmente-equipada-ID16P82.html#f7bb545bda",
+      "id": "imovirtual_16P82",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InBlZ2Zxa2trN3dybTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6LCDUDr4GoIRnWRwuEZ2OaJSF3o9RA_phgzi8nfW2eI/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1630110343238
+    },
+    {
+      "title": "Alverca T2 Novo com Terraço, Totalmente Equipada",
+      "price": 226000,
+      "link": "https://www.imovirtual.com/pt/anuncio/alverca-t2-novo-com-terraco-totalmente-equipada-ID16P81.html#f7bb545bda",
+      "id": "imovirtual_16P81",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVyYmZ2bmJiNmF4eS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.HUl1O5Vo2a4bK5zWXnD1R3OJd8CfypRp3BrcAcGseT0/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1630110343238
+    },
+    {
+      "title": "T3 Luxo V. F. Xira",
+      "price": 239000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t3-luxo-v-f-xira-ID16PkW.html#f7bb545bda",
+      "id": "imovirtual_16PkW",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV1azlidjlkOG1ieC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.eVRHqUUWOSMY0AjlbnUogDme61taeIXMRrOaXZO1V6o/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1630110343239
+    },
+    {
+      "title": "Possibilidade Permuta - T2 Apartamento NOVO",
+      "price": 249000,
+      "link": "https://www.imovirtual.com/pt/anuncio/possibilidade-permuta-t2-apartamento-novo-ID16PkA.html#f7bb545bda",
+      "id": "imovirtual_16PkA",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9ia3B2enJoYXI2ajMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.704KwtSVtJdqgi_2zyahHxB4K2QyNYaknL2pybb3CME/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1630110343239
     }
   ]
 }
