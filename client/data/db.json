@@ -11388,6 +11388,33 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM3bHB2Z2hueXM1dzItQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.QySMhzKLPkWi7BumtJ5-V7IbFHQztxLaWNr0k8_yo8U/image;s=655x491;q=80",
       "location": "Vila Franca de Xira",
       "parseDate": 1630196854257
+    },
+    {
+      "title": "Apartamento T3, totalmente renovado - Alverca Centro",
+      "price": 250000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-totalmente-renovado-alverca-centro-ID16PFL.html#f7bb545bda",
+      "id": "imovirtual_16PFL",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImF2Z2d4bnd0MjllMDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.a92z80JmmT0apowPAOYmv90rhrX6j1y-RGPxySMiQeI/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1630283249768
+    },
+    {
+      "title": "APARTAMENTO T3 PARA VENDA NO MONTIJO (REMODELADO)",
+      "price": 125000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-venda-no-montijo-remodelado-ID16PE3.html#0a560104e0",
+      "id": "imovirtual_16PE3",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InMxamhvdGdkNmlhcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.0e9pinDwFL5F-ysCpjt-aBaLut2uxj9rMG-XxtISDMM/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1630283282453
+    },
+    {
+      "title": "APARTAMENTO T3 PARA VENDA NO MONTIJO (REMODELADO)",
+      "price": 145000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-venda-no-montijo-remodelado-ID16PDX.html#0a560104e0",
+      "id": "imovirtual_16PDX",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjhhZzR2cDlzeW1vZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Rg_D7sLuMoS7MUlgQQjqO_3HVUvjlGwVUHXezHuelDA/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1630283282454
     }
   ]
 }
