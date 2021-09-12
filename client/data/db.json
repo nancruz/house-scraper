@@ -12107,6 +12107,50 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjE2cGt6NGtrZGRzcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.u0WL1EiHyTPBBV6hWWHCJCSTMsejDx6UhMWJv5DeSL4/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1631320064919
+    },
+    {
+      "title": "Apartamento T2/T3 na Rua da Indústria em Lisboa próximo ao ISA",
+      "price": 198,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-t3-na-rua-da-industria-em-lisboa-proximo-ao-isa-ID16WIu.html#a807e5f847",
+      "id": "imovirtual_16WIu",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhNGhpaDR5aGJpNS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.R6dyIFKBb-CUoYHJQM_Zc5zmMk-KvxfJZbRelbTYtro/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1631406538338
+    },
+    {
+      "title": "T2 Santa Clara - Junto ao Metro",
+      "price": 235000,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-santa-clara-junto-ao-metro-ID16WEZ.html#a807e5f847",
+      "id": "imovirtual_16WEZ",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJnMHI5YjRqZHdidjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Q83jJyHkk1_HxcHuwYqa7ppezhpg8BTMGyjlC6TmCuw/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1631406538338
+    },
+    {
+      "title": "Apartamento T2 com Garagem e arrecadação",
+      "price": 140000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-garagem-e-arrecadacao-ID16WAh.html#822af08b8a",
+      "id": "imovirtual_16WAh",
+      "location": "Torres Vedras",
+      "parseDate": 1631406569868
+    },
+    {
+      "title": "Apartamento T2 – Ericeira",
+      "price": 215000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-ericeira-ID16WyE.html#5736fbfba3",
+      "id": "imovirtual_16WyE",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImczczRscGlsbWwxYTItQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.y8sEj8dDnvpKixyNEFuuZT_F0wF_MphWAldzIxONcD8/image;s=655x491;q=80",
+      "location": "Mafra",
+      "parseDate": 1631406603106
+    },
+    {
+      "title": "Apartamento T2 na Urbanização Portas Do Montijo- Várias T...",
+      "price": 250000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-na-urbanizacao-portas-do-montijo-varias-t-ID16WC5.html#0a560104e0",
+      "id": "imovirtual_16WC5",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImptcjJtNHZnanoxZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.qRWr4mRwekT4jr6qBAuDV01hLgnblTyR9vFqKbXGOWU/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1631406638141
     }
   ]
 }
