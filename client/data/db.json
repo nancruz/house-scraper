@@ -12447,6 +12447,51 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InpqNjl1bGJiMHkycTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.sJZyPpptBpTPYQ6Q_0cvWprYvrpsP3PSmQvKQCGH9uc/image;s=655x491;q=80",
       "location": "Montijo",
       "parseDate": 1631838784411
+    },
+    {
+      "title": "Apartamento T3 Setúbal",
+      "price": 150000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-setubal-ID16Ylk.html#a807e5f847",
+      "id": "imovirtual_16Ylk",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InplZGJqODBtYnk5MzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xuy6KBh-KlDhw559cPFx8xCLzSl1XQGSqdRuipWfAIo/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1631924694306
+    },
+    {
+      "title": "Apartamento t2 totalmente remodelado reboleira",
+      "price": 165000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-totalmente-remodelado-reboleira-ID16YqK.html#a807e5f847",
+      "id": "imovirtual_16YqK",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imtja3RhbGp0N2tuajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.1R71MATPU0LCN1RXmHy1A_Vg7UyVlYS0mY0sV1_QIi4/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1631924694306
+    },
+    {
+      "title": "Apartamento T2 Recuperado em Campolide",
+      "price": 245000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-recuperado-em-campolide-ID16Ytr.html#a807e5f847",
+      "id": "imovirtual_16Ytr",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUwc2NnMGJoN2d1by1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19._KNXibFxuC5cvxkyvOpZJqrYjkDNGnUPmiCPjmO1vjo/image;s=655x491;q=80",
+      "location": "Lisboa",
+      "parseDate": 1631924694307
+    },
+    {
+      "title": "Apartamento T2 Remodelado com Terraço no Centro de Alverca do Ribatejo",
+      "price": 150000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-remodelado-com-terraco-no-centro-de-alverca-do-ribatejo-ID16Yfj.html#f7bb545bda",
+      "id": "imovirtual_16Yfj",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjR3ZXp1dmJ0b2xtbS1BUFQiLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.QRFVn3JPOAjYJs1SmGT95d7J0mBQwqxdIUvXpkL3X9E/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1631924732081
+    },
+    {
+      "title": "Apartamento T2 em Alverca do Ribatejo (ALV129)",
+      "price": 160000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-alverca-do-ribatejo-alv129-ID16YkM.html#f7bb545bda",
+      "id": "imovirtual_16YkM",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkzNTVkM2Q2czVhYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjRqYWZwbDloM2ZndC1BUFQiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.U1ykyGdv9NI7ODSTluCN5OfTNq2XXAi-qOZzf96KzmA/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1631924732081
     }
   ]
 }
