@@ -12969,6 +12969,33 @@
       "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjEyMG13Z2hwNGswejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.gTtq6RKb8qbsGmrMNLZmNTDPcxVYqByAVXY5hLSvS7w/image;s=655x491;q=80",
       "location": "Loures",
       "parseDate": 1632702446973
+    },
+    {
+      "title": "T2 Centro Alverca com remodelações",
+      "price": 147500,
+      "link": "https://www.imovirtual.com/pt/anuncio/t2-centro-alverca-com-remodelacoes-ID171Xt.html#f7bb545bda",
+      "id": "imovirtual_171Xt",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJuYnd4eTd4ZGFzNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.qWvwOgWdBvDIf4qR5cxRJuWtAIs_te5jYS0SfEDqGPQ/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1632788899541
+    },
+    {
+      "title": "Apartamento de tipologia T3, novo, no centro de Alhandra,",
+      "price": 250000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-de-tipologia-t3-novo-no-centro-de-alhandra-ID172nG.html#f7bb545bda",
+      "id": "imovirtual_172nG",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJrOGxzdXhjZjU0MTMtQVBUIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Wo4_TkvJgkgUJB1tkb4bcELsh4S9MhvLzzBfkeXDrzY/image;s=655x491;q=80",
+      "location": "Vila Franca de Xira",
+      "parseDate": 1632788899541
+    },
+    {
+      "title": "Apartamento T2 Afonsoeiro Montijo",
+      "price": 150000,
+      "link": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-afonsoeiro-montijo-ID1728q.html#0a560104e0",
+      "id": "imovirtual_1728q",
+      "photo": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImluYTJ4ZHgydGw5ajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI0amFmcGw5aDNmZ3QtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.wUkZ3oBts08_PfgGx6pS2CocSZW8RiClT4G-4PUTplo/image;s=655x491;q=80",
+      "location": "Montijo",
+      "parseDate": 1632788931589
     }
   ]
 }
